@@ -5,4 +5,4 @@ Shield 722 is a fictitious company on a Portuguese roleplay server from GTA 5 Fi
   
 ### WEBSITE URL
 
-<a href="https://ivolopes-developer.github.io/shield722.github.io/" target="_blank">View the Website</a>
+[View the Website](https://ivolopes-developer.github.io/shield722.github.io/)
